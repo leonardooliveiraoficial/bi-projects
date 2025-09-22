@@ -4,7 +4,7 @@ Este repositório reúne projetos de Business Intelligence e Data Analytics, des
 
 ## Projetos
 
-- [MRV: Panorama de Vendas e Empreendimentos](projeto_classificacao_numerica/README.md)
+- [MRV: Panorama de Vendas e Empreendimentos](Operações Imobiliárias/MRV/prints)
 
 * Projeto desenvolvido em Microsoft Power BI para análise de vendas imobiliárias e andamento de empreendimentos.
 * Integra três bases principais (vendas, empreendimentos e cidades), fornecendo insights sobre dinâmica comercial, atrasos de obras e distribuição regional.
